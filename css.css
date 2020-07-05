@@ -1,0 +1,60 @@
+                * {
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                .h4 {
+                    color: white;
+                    background: orangered;
+                    padding-top: 20px;
+                    padding-bottom: 40px;
+                    margin-right: 800px;
+                    padding-left: 30px;
+                    text-align: left;
+                }
+                
+                .saldo {
+                    width: 200px;
+                    height: 200px;
+                    color: orangered;
+                    padding-left: 100px;
+                    padding-top: 100px;
+                    float: left;
+                }
+                
+                .coluna {
+                    width: 650px;
+                    height: 170px;
+                    color: gray;
+                    text-align: center;
+                    padding-right: 50px;
+                    padding-top: 50px;
+                    padding-left: 70px;
+                    position: absolute;
+                    z-index: 500;
+                    border:
+                }
+                
+                .coluna2 {
+                    z-index: 600;
+                    color: gray;
+                    position: absolute;
+                    top: 195px;
+                    left: 350px;
+                    border:
+                }
+                
+                .coluna3 {
+                    z-index: 700;
+                    color: gray;
+                    top: 245px;
+                    left: 357px;
+                    position: absolute;
+                    border:
+                }
+                
+                .border {
+                    border-color: orangered;
+                    border-style: solid;
+                    border-width: 10px;
+                }
